@@ -4,7 +4,6 @@ import matplotlib as mpl
 import numpy as np
 
 
-# the test case
 class LinePlotTestCase(unittest.TestCase):
     def setUp(self):
         self.ax = sea_level_predictor.draw_plot()
