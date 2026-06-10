@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of the FreeCodeCamp Data Analysis with Python Course.
+This project was completed as part of the FreeCodeCamp Data Analysis with Python Course (From Existing Templates).
 
 ## Objective
 
